@@ -34,6 +34,7 @@
 ----------------------------
 
 **quantitative mng perspective**
+
 ![Quantitative Mng perspective](https://github.com/Hasibwajid/Intro-To-Managment-Course/assets/72168225/ca16683a-afe5-42d9-93cf-47edd9774840)
 
 
@@ -60,6 +61,7 @@
 
 
 6 **Types of Decisions**
+
 ![6](https://github.com/Hasibwajid/Intro-To-Managment-Course/assets/72168225/ff2ff2fd-d5ee-47ee-9c9d-20660fc89e61)
 
 
@@ -100,7 +102,9 @@ Ayesha should monitor her husband's adherence to the medication schedule and adj
 ![8](https://github.com/Hasibwajid/Intro-To-Managment-Course/assets/72168225/873dd94e-d2da-4357-9f95-27ecf19cb2c9)
 
 
+
 **administrative model(behavioral decision making:)**
+
 ![9](https://github.com/Hasibwajid/Intro-To-Managment-Course/assets/72168225/d660e669-d421-4552-bf1f-fb934efb4c02)
 
 ![10](https://github.com/Hasibwajid/Intro-To-Managment-Course/assets/72168225/d9f7cc65-66b7-4755-b4e5-d681bbc4718e)
