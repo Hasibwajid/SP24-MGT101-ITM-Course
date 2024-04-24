@@ -38,6 +38,7 @@
 
 
 **Behavioral mng perspective**
+
 ![Behavioral Mng Perspective](https://github.com/Hasibwajid/Intro-To-Managment-Course/assets/72168225/6e93bfa5-525d-4056-9525-d084e349ad69)
 
 ----------------------------
