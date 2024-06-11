@@ -60,7 +60,7 @@
 ![5](https://github.com/Hasibwajid/Intro-To-Managment-Course/assets/72168225/024fe230-e1a1-426b-9302-1804fd40bd43)
 
 
-6 **Types of Decisions**
+ **Types of Decisions**
 
 ![6](https://github.com/Hasibwajid/Intro-To-Managment-Course/assets/72168225/ff2ff2fd-d5ee-47ee-9c9d-20660fc89e61)
 
