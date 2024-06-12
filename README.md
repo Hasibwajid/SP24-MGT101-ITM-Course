@@ -263,7 +263,7 @@ Job rotation, with proper planning and support, can enhance both employee develo
 ------------------------------------------
 
 
-**GROUPING JOB:**
+**GROUPING JOB / DEPARTMENTALIZATION:**
 Process of grouping jobs based on some logical arrangements.
 
 **Functional Grouping:**
@@ -319,6 +319,10 @@ Core functions like HR and Finance are centralized.
 Product-specific divisions ensure tailored development and marketing.
 This hybrid model balances specialization and flexibility, enhancing both efficiency and innovation in a tech-driven environment.
 
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/74f058d1-36d1-4933-b45d-86189ec6cac6)
+
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/00b92a4c-dc27-4b47-89ad-fc9100d94b58)
 
 --------------------------------------
 
