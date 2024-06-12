@@ -911,6 +911,51 @@ Adaptability: Ensure control measures are flexible and can adapt to changing cir
 -------------------------------------
 
 
+**Managing Strategy and Strategic Planning**
+
+**The Nature of Strategic Management**
+
+**Strategic Management:** The process of formulating, implementing, and evaluating decisions that enable an organization to achieve its long-term objectives.
+
+**The Components of Strategy**
+
+**Distinctive Competence:** Unique capabilities or strengths that differentiate an organization from its competitors.
+
+**Scope:** The range of markets, industries, or businesses in which the organization competes.
+
+**Resource Deployment:** Allocating resources effectively to achieve strategic goals.
+
+**Types of Strategic Alternatives**
+
+**Business-Level Strategy:** Focuses on how a business unit competes within a specific industry or market segment.
+
+**Corporate-Level Strategy:** Concerns the overall scope of the organization and how it manages its portfolio of businesses.
+
+**Formulation and Implementation**
+
+**Deliberate (Purposeful) Strategy:** Planned actions intended to achieve specific goals.
+
+**Emergent (Growing) Strategy:** Unplanned actions that emerge from day-to-day operations and adapt to changing circumstances.
+
+**The Strategic Management Process**
+
+**Review Vision/Goals:** Define the organization's mission, vision, and long-term objectives.
+
+**Assess Environment (Threats and Opportunities):** Analyze external factors such as market trends, competition, and regulatory changes.
+
+**Assess Resources (Strengths and Weaknesses):** Evaluate internal capabilities, resources, and core competencies.
+
+**Review Mission, Vision, and Strategy (M+V+S):** Align current strategies with the organization's mission and vision.
+
+**Result:** Develop strategic initiatives and action plans to achieve objectives.
+
+![TEMP](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/99a49fe7-a99e-4e54-92fd-9f86c6e2b9b9)
+
+
+Strategic management involves continuous assessment, adaptation, and alignment of organizational strategies with internal and external environments to sustain competitive advantage and achieve long-term success.
+
+
+----------------------------------------
 
 
 
