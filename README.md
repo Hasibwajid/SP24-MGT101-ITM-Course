@@ -1,4 +1,4 @@
-![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/359a3b60-eaf5-4bd9-be56-e931d8c035a3)# Intro-To-Managment-Course
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/b17a0bfb-42f1-4584-a455-61963e0fd2d0)![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/359a3b60-eaf5-4bd9-be56-e931d8c035a3)# Intro-To-Managment-Course
 
 **Mngs Perspectives:**
 - Traditional/Classical Mng
@@ -579,6 +579,49 @@ Cons: Dual reporting confusion, complex management.
 
 
 ------------------------------------------------------
+
+
+**THE NATURE OF LEADERSHIP**
+**LEADERSHIP:** The ability to guide, influence, and inspire others toward achieving common goals.
+
+**Who Are Leaders?**
+
+
+**Leaders:**
+
+**Influence Behaviors:** Shape others' actions and attitudes.
+**Non-Forceful Influence:** Lead without coercion.
+**Accepted as Leaders:** Recognized by others.
+
+
+
+**Leadership differs from management in several key aspects:**
+
+**Focus:** Leadership emphasizes vision, while management focuses on execution.
+
+**Approach:** Leaders innovate; managers prioritize stability.
+
+**Orientation:** Leaders prioritize people; managers focus on tasks.
+
+**Power Source**: Leadership draws from personal influence, whereas management relies on formal authority.
+
+**Outcome:** Leadership aims for long-term goals, while management focuses on short-term objectives.
+
+
+
+**POWER and LEADERSHIP**
+
+**POWER** The ability to affect the behavior of others.
+
+**Types of Power:**
+Legitimate: Authority from position.
+Reward: Ability to provide incentives.
+Coercive: Ability to enforce compliance.
+Referent: Influence from personal traits.
+Expert: Influence from skills and knowledge.
+
+
+------------------------------------------
 
 
 
