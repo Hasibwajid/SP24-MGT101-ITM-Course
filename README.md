@@ -164,3 +164,15 @@ Performing: The group functions at its peak, achieving its goals with high level
 Adjourning: The group disbands or transitions to a new phase, reflecting on its accomplishments and preparing for future endeavors.
 
 ----------------------------
+
+
+FUNCTIONS OF MANAGEMNT:
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/e543ec93-4efc-41b8-81a3-e8d190bfda94)
+
+I- PLANNING: Setting an organizational goals and deciding how best to acheive them.
+II- ORGANIZING: Deciding how best to group organizational activities and resources/ Determining how activities and resources are to be group.
+III- LEADING: The set of processes to get members of the org to work togther to further the intersets of organization.
+IV- CONTROLLING: Monitoring organizational processes toward goal attainment.
+
+
