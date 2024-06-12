@@ -448,7 +448,7 @@ Understanding these distinctions helps organizations allocate resources effectiv
 
 
 
-**Organizational Design**
+**ORGANIZATIONAL DESIGN**
 Organizational design involves structuring an organization's roles, responsibilities, and systems to achieve its goals efficiently. It defines how activities are coordinated, managed, and executed within the organization.
 
 **Models of Organizational Design:**
