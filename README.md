@@ -215,11 +215,26 @@ Cons: Monotony, lack of flexibility.
 
 Pros: Reduced monotony, diverse skills, greater flexibility.
 Cons: Requires training, potentially less efficient.
-Balancing Strategies
-Job Rotation: Gradually shift employees between tasks to broaden skills.
-Job Enlargement: Add more tasks to a role.
-Job Enrichment: Increase responsibilities to boost motivation.
-Effective Job Rotation
+
+**Balancing Strategies**
+**Job Rotation:** Gradually shift employees between tasks to broaden skills.(Challenges cover bellow)
+**Job Enlargement:** Add more tasks to a role.
+**Job Enrichment:** Increase responsibilities to boost motivation.
+**Work Teams:**
+Work teams involve groups of employees collaborating to achieve common goals, leveraging collective skills and knowledge.
+**Types of Work Teams:**
+Functional Teams: Members from the same department with similar skills.
+Cross-Functional Teams: Members from different departments working together.
+Self-Managed Teams: Teams with autonomy to manage themselves without a supervisor.
+Virtual Teams: Teams working remotely, connected via technology.
+**Benefits:**
+Enhanced creativity and innovation.
+Improved problem-solving through diverse perspectives.
+Increased motivation and job satisfaction.
+Greater flexibility and adaptability.
+
+
+**Effective Job Rotation**
 **Challenges:**
 
 Lack of expertise in new tasks.
