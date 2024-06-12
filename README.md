@@ -817,6 +817,101 @@ Control is essential in management to maintain efficiency, effectiveness, and al
 ---------------------------------------
 
 
+**Financial Controls**
+
+**Reasons for Financial Controls:**
+
+Ensure financial resources are used efficiently.
+
+Monitor and manage financial performance.
+
+Prevent fraud and ensure compliance with financial regulations.
+
+Facilitate decision-making based on financial data.
+
+**What Is a Budget?**
+
+A budget is a financial plan that outlines expected income and expenditures over a specific period, typically one fiscal year.
+
+**Types of Budget:**
+
+Financial Budget: Focuses on cash flows, capital expenditures, and financing activities.
+
+Operating Budget: Covers day-to-day expenses and revenues.
+
+Non-monetary Budget: Includes non-financial resources like manpower and time.
+
+**Developing Budgets:**
+
+Involves forecasting income and expenses, allocating resources, and ensuring alignment with organizational goals.
+
+**Developing Budgets in Organizations:**
+
+Involves collaboration among departments, setting realistic goals, and monitoring variances to adjust plans as needed.
+
+**Other Tools for Financial Control:**
+
+Include financial statements, cost accounting systems, variance analysis, and financial audits.
+
+**Bureaucratic Control**
+
+Bureaucratic Control:
+
+Relies on formal rules, procedures, and hierarchical authority to guide and regulate behavior within an organization.
+
+**Decentralized Control**
+
+Decentralized Control:
+
+Involves delegating decision-making authority to lower levels of the organization to respond quickly to local conditions and improve responsiveness.
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/7798f292-7e44-4bf3-bd87-f3c469c70fb4)
+
+
+**Strategic Control**
+
+Strategic Control:
+Monitors how well an organization's strategies are aligned with its goals and adjusts strategic initiatives as needed.
+
+**Characteristics of Effective Control**
+
+Integration with Planning: Control should be aligned with organizational goals and plans.
+
+Flexibility: Allows for adjustments in response to changes in the environment.
+
+Accuracy: Provides reliable and timely information for decision-making.
+
+Timeliness: Ensures information is available when needed.
+
+Objectivity: Based on unbiased and factual data.
+
+**Influences on Resistance to Control**
+
+Over-control: Excessive monitoring and restrictions can demotivate employees.
+
+Inappropriate Focus: Control measures that emphasize the wrong priorities.
+
+Rewards for Inefficiency: When control systems inadvertently reward inefficient behaviors.
+
+Too Much Accountability: Excessive accountability can create resistance and reduce initiative.
+
+**Overcoming Resistance to Control**
+
+Communication: Clearly communicate the purpose and benefits of control measures.
+
+Involvement: Involve employees in the development of control systems to increase buy-in.
+
+Training: Provide training to ensure employees understand how controls benefit them and the organization.
+
+Rewards: Link rewards to performance that aligns with organizational goals.
+
+Adaptability: Ensure control measures are flexible and can adapt to changing circumstances.
+
+
+-------------------------------------
+
+
+
 
 
 
