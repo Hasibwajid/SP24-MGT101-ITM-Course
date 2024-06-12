@@ -186,3 +186,7 @@ Because all the structural element of the company and how those element work tog
 
 
 -----------------------------
+
+
+**ORGANNIZING LEADS TO DECISION MAKING**
+WHen the manager is organized the activities are coordinated.
