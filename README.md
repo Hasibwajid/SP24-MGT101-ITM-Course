@@ -592,7 +592,9 @@ Cons: Dual reporting confusion, complex management.
 **Leaders:**
 
 **Influence Behaviors:** Shape others' actions and attitudes.
+
 **Non-Forceful Influence:** Lead without coercion.
+
 **Accepted as Leaders:** Recognized by others.
 
 
@@ -615,19 +617,139 @@ Cons: Dual reporting confusion, complex management.
 
 **POWER** The ability to affect the behavior of others.
 
+
 **Types of Power:**
-Legitimate: Authority from position.
-Reward: Ability to provide incentives.
-Coercive: Ability to enforce compliance.
-Referent: Influence from personal traits.
-Expert: Influence from skills and knowledge.
+
+**Legitimate:** Authority from position.
+
+**Reward:** Ability to provide incentives.
+
+**Coercive:** Ability to enforce compliance.
+
+**Referent:** Influence from personal traits.
+
+**Expert:** Influence from skills and knowledge.
 
 
 ------------------------------------------
 
 
+**THEORIES OF LEADERSHIP:**
+
+**Universalist Theories:**
+
+Propose that certain traits or behaviors make a leader effective in all situations.
+
+Include:
+
+**Great Man/Woman Theory:** Leaders are born, not made.
+
+**Trait Theory:** Identifies specific traits associated with effective leadership.
+
+**Behavioral Leadership Theories:**
+
+Focus on observable behaviors of leaders.
+
+Include:
+
+**Ohio State Leadership Studies:** Identifies two dimensions of leadership behavior (initiating structure and consideration).
+
+**University of Michigan Leadership Studies:** Identifies two leadership styles (employee-oriented and production-oriented).
+
+**Contingency Theories of Leadership:**
+
+Assert that effective leadership depends on the situation.
+
+Include:
+
+**Fiedler’s Contingency Model:** Matches leadership style with the situation based on leader-member relations, task structure, and position power.
+
+**Path-Goal Theory:** Focuses on how leaders can motivate followers by clarifying paths to goal achievement.
+
+**Decision-Making Model:** Analyzes leaders' decision-making processes.
+
+**Leader-Member Exchange Model:** Focuses on the quality of relationships between leaders and followers.
+
+These theories offer different perspectives on what makes a leader effective and provide frameworks for understanding leadership behavior in various contexts.
 
 
+**Managerial Grid Styles:**
+
+1,1 (Impoverished Style): Low concern for both people and production, minimal effort to get work done. Leaders may delegate tasks and avoid making decisions.
+
+9,1 (Task Management Style): High concern for production, low concern for people. Focus is on achieving results with little regard for team morale or relationships.
+
+1,9 (Country Club Style): High concern for people, low concern for production. Leaders prioritize creating a friendly and comfortable work environment, often at the expense of goal achievement.
+
+5,5 (Middle-of-the-Road Style): Balances concern for both people and production at moderate levels. A compromise approach where leaders seek to maintain satisfactory performance and relationships.
+
+9,9 (Team Style): High concern for both people and production. Leaders strive for high performance while also fostering a supportive and collaborative work environment.
+
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/a226629f-b281-467d-b6c4-a87b22a47f47)
+
+
+The Managerial Grid helps leaders understand their own leadership style and its impact on team dynamics and performance. It encourages them to find a balance between task accomplishment and maintaining positive relationships with team members.
+
+--------------------------------------
+
+
+
+**TYPES OF LEADERSHIP STYLES:**
+
+**Authoritarian Leadership (Autocratic):**
+
+Description: Leaders make decisions independently with little or no input from others.
+Example: Military commanders giving direct orders during combat.
+
+**Participative Leadership (Democratic):**
+
+Description: Leaders involve team members in decision-making processes, seeking their input and feedback.
+Example: Team leaders conducting brainstorming sessions to gather ideas from team members before making a decision.
+
+**Delegative Leadership (Laissez-Faire):**
+
+Description: Leaders delegate decision-making authority to team members, providing minimal guidance or supervision.
+Example: Project managers assigning tasks and allowing team members to determine how to accomplish them.
+
+**Transformational Leadership:**
+
+Description: Leaders inspire and motivate their teams by creating a compelling vision and fostering a culture of innovation and change.
+Example: Steve Jobs at Apple, known for his vision and ability to inspire teams to create groundbreaking products.
+
+**Transactional Leadership:**
+
+Description: Leaders focus on exchange and transactions with their team, rewarding good performance and correcting poor performance.
+Example: Sales managers offering bonuses for meeting sales targets and providing feedback on performance.
+
+**Paternalistic Leadership:**
+
+Description: Leaders act as a parental figure, making decisions for the well-being of their team while considering their best interests.
+Example: A CEO who consults with employees on major decisions but ultimately makes the final call based on what they believe is best for the organization.
+
+**Servant Leadership:**
+
+Description: Leaders prioritize the needs of their team members, supporting their development and success.
+Example: Mahatma Gandhi, who led through humility and service to others, focusing on the well-being of the community.
+
+**Charismatic Leadership:**
+
+Description: Leaders use their charm and personality to inspire enthusiasm and devotion among their followers.
+Example: Martin Luther King Jr., whose charisma and passion mobilized people during the Civil Rights Movement in the United States.
+
+
+
+**Political Behavior in Organizations**
+
+Activities carried out for the specific purpose of acquiring, developing, and using power and other resources to obtain one’s preferred outcomes.
+
+**Impression Management:**
+
+Description: Employees and leaders actively manage how others perceive them in the workplace to influence opinions or outcomes.
+Example: A manager carefully presenting their accomplishments during a performance review to enhance their image and secure a promotion.
+Understanding these leadership styles and political behaviors helps leaders navigate different organizational contexts and effectively manage teams to achieve desired outcomes
+
+-------------------------------------
 
 
 
