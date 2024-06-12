@@ -190,3 +190,50 @@ Because all the structural element of the company and how those element work tog
 
 **ORGANNIZING LEADS TO DECISION MAKING**
 WHen the manager is organized the activities are coordinated.
+
+**STEPS OF ORGANIZING:**
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/a152174b-ceb7-4ff9-bce6-3d5957f2d5b5)
+
+
+
+
+
+**Job Designing**
+Job designing organizes tasks and responsibilities to improve job satisfaction and productivity. Key elements include:
+
+Task Variety: Diverse tasks to prevent monotony.
+Autonomy: Control over work methods.
+Task Identity & Significance: Seeing the whole process and understanding the impact.
+Feedback: Insights on performance.
+Job Specialization vs. Generalization
+**Job Specialization:**
+
+Pros: Increased efficiency and specialized skills.
+Cons: Monotony, lack of flexibility.
+**Job Generalization:**
+
+Pros: Reduced monotony, diverse skills, greater flexibility.
+Cons: Requires training, potentially less efficient.
+Balancing Strategies
+Job Rotation: Gradually shift employees between tasks to broaden skills.
+Job Enlargement: Add more tasks to a role.
+Job Enrichment: Increase responsibilities to boost motivation.
+Effective Job Rotation
+**Challenges:**
+
+Lack of expertise in new tasks.
+**Strategies:**
+
+Training: Provide necessary training.
+Partial Rotation: Rotate tasks gradually.
+Cross-Functional Teams: Promote collaboration.
+Mentorship: Support with mentors.
+**Benefits:**
+
+Broadens skills, enhances career development.
+Increases organizational flexibility and innovation.
+Job rotation, with proper planning and support, can enhance both employee development and organizational resilience even in specialized fields.
+
+
+------------------------------------------
