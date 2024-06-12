@@ -529,6 +529,54 @@ Innovative Industries: Where creativity and employee input are valued.
 Organizations Focusing on Employee Engagement: Where high morale and job satisfaction are prioritized.
 Choosing between these models requires considering the specific needs, goals, and environment of the organization.
 
+**Situational Influences of Organizational Design:**
+
+**Core technology** (IF INCREASED LEADS TO INCREASE IN NO OF LEVEL OF MGT (TALL ORG) ALSO SPAN OF MGT INCREASES (WIDE SPAN))
+
+**Environment**
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/0a8eef8a-308f-457f-bf5b-487118ab3900)
+
+**Organization Size**  (IF INCREASED LEADS TO INCREASE IN NO OF LEVEL OF MGT (TALL ORG) ALSO SPAN OF MGT INCREASES (WIDE SPAN))
+
+**Organization Life cycle**
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/b3062688-3467-4f40-9589-af62fa7a431c)
+
+
+
+**Basic Forms of Organizational Design**
+
+**1. Functional (U-Form)**
+Structure: By functional areas (e.g., marketing, finance).
+Pros: Specialization, resource efficiency.
+Cons: Silo mentality, slow cross-functional decisions.
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/326dd48c-c068-4171-b225-416510c417a1)
+
+
+**2. Conglomerate (H-Form)**
+Structure: Independent, unrelated businesses.
+Pros: Risk diversification, flexibility.
+Cons: Management complexity, lack of synergy.
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/a1bd932b-b7a9-47d8-9dea-e57aa0f05fe4)
+
+
+**3. Divisional (M-Form)**
+Structure: By products, services, or regions.
+Pros: Responsiveness, focus, accountability.
+Cons: Functional duplication, inefficiencies.
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/992c7139-07a5-411a-adfd-be4eb40d2a32)
+
+
+**4. Matrix**
+Structure: Combines functional and divisional.
+Pros: Resource efficiency, collaboration.
+Cons: Dual reporting confusion, complex management.
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/40126f8b-5709-46e8-8e40-787200220b3b)
+
 
 ------------------------------------------------------
 
