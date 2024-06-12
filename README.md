@@ -509,6 +509,10 @@ Organic Structures: Flexible and decentralized, suitable for dynamic and uncerta
 Understanding these models helps organizations choose the appropriate design based on their specific needs, goals, and external environment.
 
 
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/d3652f01-e8a0-47c9-99b6-daf289894cce)
+
+
+
 **Which One is Better?**
 It depends on the organization's context:
 
