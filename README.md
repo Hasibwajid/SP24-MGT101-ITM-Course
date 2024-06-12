@@ -1,4 +1,6 @@
-![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/b17a0bfb-42f1-4584-a455-61963e0fd2d0)![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/359a3b60-eaf5-4bd9-be56-e931d8c035a3)# Intro-To-Managment-Course
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/359a3b60-eaf5-4bd9-be56-e931d8c035a3)
+
+# Intro-To-Managment-Course
 
 **Mngs Perspectives:**
 - Traditional/Classical Mng
