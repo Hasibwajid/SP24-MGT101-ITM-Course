@@ -326,3 +326,34 @@ This hybrid model balances specialization and flexibility, enhancing both effici
 
 --------------------------------------
 
+**ESTABLISHING REPORTING RELATIONSHIP:**
+
+**Chain of Command:**
+
+Define the hierarchy of authority from top management to the lowest levels.
+Clarify who reports to whom and the flow of decision-making.
+
+**Span of Management:**
+
+Narrow Span: Few subordinates per manager, typically in taller organizational structures.
+Wider Span: Many subordinates per manager, common in flatter organizations.
+
+**Type of Structure:**
+
+Identify whether the organization is tall (with multiple layers of management) or flat (fewer layers, broader spans of control).
+Discuss how this impacts communication, decision-making, and flexibility.
+
+**Tall versus Flat Organizations:**
+
+Tall Organization: More hierarchical levels, narrower spans of control.
+Flat Organization: Fewer hierarchical levels, wider spans of control.
+Consider the implications for communication effectiveness, employee autonomy, and responsiveness to change.
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/6962f9b4-fd05-4962-9a4d-70b438bad35a)
+
+
+These aspects help in understanding how authority and communication flow within the organization, influencing decision-making and operational efficiency.
+
+------------------------------------------
+
+
