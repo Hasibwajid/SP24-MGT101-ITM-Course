@@ -752,6 +752,74 @@ Understanding these leadership styles and political behaviors helps leaders navi
 -------------------------------------
 
 
+**Control (Function of Management)**
+
+**How does control help the manager?**
+
+Control helps managers monitor performance, identify deviations from goals, and take corrective actions to ensure objectives are achieved efficiently.
+
+**What Is the Purpose of Control?**
+
+The purpose of control is to ensure that organizational goals are met effectively and efficiently by monitoring performance, comparing it with goals, and taking corrective action when necessary.
+
+**Who Is Responsible for Control?**
+
+Managers at various levels are responsible for control within their areas of responsibility, ensuring that operations align with organizational objectives.
+
+**Steps in the Control Process:**
+
+Establishing Standards: Setting performance standards and benchmarks.
+
+Measuring Performance: Monitoring and measuring actual performance.
+
+Comparing Performance Against Standards: Evaluating deviations and variances.
+
+Taking Corrective Action: Addressing any deviations to ensure goals are achieved.
+
+**Levels of Control:**
+
+Operational Control: Focuses on processes and operations.
+
+Financial Control: Manages financial resources.
+
+Structural Control: Ensures organizational structure supports goals.
+
+Strategic Control: Evaluates effectiveness of strategies in achieving goals.
+
+**Operational Control**
+
+**Forms of Operational Control:**
+
+Preliminary Control: Monitoring before activities are completed.
+
+Screening Control: Assessing ongoing processes.
+
+Postaction Control: Reviewing after activities are finished.
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/92d23dfa-9aac-4363-af9d-fbea95a1dc94)
+
+
+**What Does Preliminary Control Monitor?**
+
+Preliminary control monitors activities before they occur to ensure they align with plans and standards. It helps prevent potential issues and deviations from occurring.
+
+**Purpose of Screening Controls:**
+
+Screening controls focus on ongoing processes to detect any deviations from standards or expected outcomes early, allowing for timely adjustments and corrective actions.
+
+**Focus of Postaction Controls:**
+
+Postaction controls concentrate on reviewing completed activities to evaluate their outcomes against set standards. They aim to learn from past actions and improve future performance.
+
+Control is essential in management to maintain efficiency, effectiveness, and alignment with organizational goals across various levels and functions.
+
+
+---------------------------------------
+
+
+
+
+
 
 
 
