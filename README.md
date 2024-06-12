@@ -1,4 +1,4 @@
-# Intro-To-Managment-Course
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/359a3b60-eaf5-4bd9-be56-e931d8c035a3)# Intro-To-Managment-Course
 
 **Mngs Perspectives:**
 - Traditional/Classical Mng
@@ -166,13 +166,23 @@ Adjourning: The group disbands or transitions to a new phase, reflecting on its 
 ----------------------------
 
 
-FUNCTIONS OF MANAGEMNT:
+**FUNCTIONS OF MANAGEMNT:**
 
 ![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/e543ec93-4efc-41b8-81a3-e8d190bfda94)
 
-I- PLANNING: Setting an organizational goals and deciding how best to acheive them.
-II- ORGANIZING: Deciding how best to group organizational activities and resources/ Determining how activities and resources are to be group.
-III- LEADING: The set of processes to get members of the org to work togther to further the intersets of organization.
-IV- CONTROLLING: Monitoring organizational processes toward goal attainment.
+**I- PLANNING:** Setting an organizational goals and deciding how best to acheive them.
+**II- ORGANIZING:** Deciding how best to group organizational activities and resources/ Determining how activities and resources are to be group.
+**III- LEADING:** The set of processes to get members of the org to work togther to further the intersets of organization.
+**IV- CONTROLLING:** Monitoring organizational processes toward goal attainment.
+
+-----------------------------
 
 
+**ORGANIZATION STRUCTURE:**
+The set of element that can be used to configure an organization are called organization structure.
+
+**WHY DE WE HAVE TO ORGANIZE AN ORG:**
+Because all the structural element of the company and how those element work together are used to manage the total organization.
+
+
+-----------------------------
