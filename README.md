@@ -357,3 +357,47 @@ These aspects help in understanding how authority and communication flow within 
 ------------------------------------------
 
 
+**Distributing Authority:** **Authority and Delegation**
+
+**Authority:**
+
+Authority refers to the right to make decisions, give orders, and allocate resources to achieve organizational objectives.
+It is vested in positions within the organizational hierarchy.
+
+**Delegation:**
+
+Delegation is the process of assigning authority and responsibility to subordinates to complete tasks.
+Key aspects include specifying the tasks, granting the necessary authority, and holding subordinates accountable.
+
+**Steps in the Delegation Process:**
+
+Assignment: Selecting tasks for delegation based on importance and complexity.
+Delegation: Granting authority and responsibility to the chosen subordinate.
+Support: Providing necessary resources, guidance, and training.
+Monitoring: Overseeing progress and providing feedback.
+Accountability: Holding subordinates responsible for outcomes.
+
+![image](https://github.com/Hasibwajid/SP24-MGT101-ITM-Course/assets/72168225/70b2a8d2-4b56-48fb-b2c5-d95a535882db)
+
+**Decentralization and Centralization**
+
+**Decentralization:**
+
+Decentralization involves dispersing decision-making authority to lower levels of the organization.
+Benefits include quicker responses to local conditions and enhanced employee involvement.
+
+**Centralization:**
+
+Centralization concentrates decision-making authority at higher levels of the organization.
+Benefits include consistency in decision-making and clearer accountability.
+
+**Choosing Between Centralization and Decentralization:**
+
+Factors: Consider organizational size, complexity, and strategic goals.
+Balance: Hybrid structures can combine aspects of both to optimize performance and responsiveness.
+Understanding these concepts helps in effectively distributing authority, delegating tasks, and optimizing decision-making processes within an organization.
+
+
+
+
+
